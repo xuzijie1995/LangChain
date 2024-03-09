@@ -1,5 +1,9 @@
 # my-app
 
+![image](https://github.com/xuzijie1995/LangChain/assets/25075527/fd743df7-dd63-403d-95c7-ef36f2de813a)
+
+<img width="777" alt="image" src="https://github.com/xuzijie1995/LangChain/assets/25075527/b4313eda-4f24-44ad-99e2-c21e9105eee5">
+
 ## Installation
 
 Install the LangChain CLI if you haven't yet
